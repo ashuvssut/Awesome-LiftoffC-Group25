@@ -12,7 +12,7 @@ Students in LiftOffC Group25 have opted for intermediate sessions on C programmi
 .
 .
 .
-.
+
 
 Students who contributed in this Repo:
 
