@@ -1,0 +1,4 @@
+enter an integer5
+
+factorial of5=120
+

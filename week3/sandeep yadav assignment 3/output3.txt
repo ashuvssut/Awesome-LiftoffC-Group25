@@ -1,0 +1,6 @@
+Enter 2 numbers:
+5
+4
+GCD: 1
+LCM: 20
+

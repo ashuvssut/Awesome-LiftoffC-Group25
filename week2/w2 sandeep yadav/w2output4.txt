@@ -1,0 +1,4 @@
+enter the size of array
+enter the array 
+the greatest= 9 
+ the smallest= 3

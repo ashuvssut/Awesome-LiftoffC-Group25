@@ -1,0 +1,4 @@
+enter the size of array 
+enter an array of 5 elements
+the sum of all even position elements=9 
+the sum of all even elements=6
